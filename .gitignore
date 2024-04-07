@@ -7,3 +7,4 @@ automate_clear_jupyter_outputs.sh
 *Scratching*
 delete/
 
+__pycache__
